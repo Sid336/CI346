@@ -1,10 +1,11 @@
-CI346 we application:
+CI346 web application:
 
 - Register & Log in functions 
 - KeyCLoak functions
 - Change Password 
 - Accounts are stored so you can only access the rota page from registering and loggin in 
 - Easy UI
+-ReactJS
 
 
 Requirements:
