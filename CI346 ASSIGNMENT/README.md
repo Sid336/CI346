@@ -1,5 +1,4 @@
 CI346 web application:
-
 - Register & Log in functions 
 - KeyCLoak functions
 - Change Password 
