@@ -4,7 +4,7 @@ CI346 we application:
 - KeyCLoak functions
 - Change Password 
 - Accounts are stored so you can only access the rota page from registering and loggin in 
-- Clean UI
+- Easy UI
 
 
 Requirements:
