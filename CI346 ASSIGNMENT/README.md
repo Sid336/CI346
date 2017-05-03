@@ -4,7 +4,7 @@ CI346 web application:
 - Change Password 
 - Accounts are stored so you can only access the rota page from registering and loggin in 
 - Easy UI
- -ReactJS
+- ReactJS
 
 
 Requirements:
